@@ -1,4 +1,4 @@
-### onUpdate() method does not work
+onUpdate() method does not work
 It is said that, when override onUpdate() in appActivity, widgets are not update at all
 solution is :
 private void updateAllWidgets(){
